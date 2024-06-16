@@ -28,9 +28,6 @@ Greenlight is a JSON API built with Go, designed to handle movie information, us
 
 - Go 1.17 or later
 - PostgreSQL
-- [curl](https://curl.haxx.se/)
-- [hey](https://github.com/rakyll/hey)
-- [git](https://git-scm.com/)
 
 ### Endpoints
 
