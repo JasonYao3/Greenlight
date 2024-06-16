@@ -29,7 +29,7 @@ Greenlight is a JSON API built with Go, designed to handle movie information, us
 - Go 1.17 or later
 - PostgreSQL
 
-### Endpoints
+## Endpoints
 
 1. **Health Check**
     GET /v1/healthcheck: Show application health and version information.
